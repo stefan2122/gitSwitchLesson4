@@ -22,4 +22,6 @@ switch(weekday) {
 	case 'sunday':
 		console.log('sleep day');
 		break;
+	default: 
+		console.log('you did not name a day of the week! try again!');
 }
