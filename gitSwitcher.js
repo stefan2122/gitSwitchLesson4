@@ -1,4 +1,4 @@
-var weekday = 'monday'
+var weekday = prompt('Name a day of the week, and I will tell you more about that day...');
 
 switch(weekday) {
 	case 'monday':
